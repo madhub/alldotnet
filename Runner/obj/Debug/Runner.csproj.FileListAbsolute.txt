@@ -1,0 +1,14 @@
+C:\dev\dotnet-dev\DotNetDemos\Runner\bin\Debug\Runner.exe.config
+C:\dev\dotnet-dev\DotNetDemos\Runner\bin\Debug\Runner.exe
+C:\dev\dotnet-dev\DotNetDemos\Runner\bin\Debug\Runner.pdb
+C:\dev\dotnet-dev\DotNetDemos\Runner\bin\Debug\CommonLib.dll
+C:\dev\dotnet-dev\DotNetDemos\Runner\bin\Debug\CommonLib.pdb
+C:\dev\dotnet-dev\DotNetDemos\Runner\obj\Debug\Runner.csprojResolveAssemblyReference.cache
+C:\dev\dotnet-dev\DotNetDemos\Runner\obj\Debug\Runner.exe
+C:\dev\dotnet-dev\DotNetDemos\Runner\obj\Debug\Runner.pdb
+C:\dev\dotnet-dev\DotNetDemos\Runner\bin\Debug\AForge.dll
+C:\dev\dotnet-dev\DotNetDemos\Runner\bin\Debug\AForge.Video.DirectShow.dll
+C:\dev\dotnet-dev\DotNetDemos\Runner\bin\Debug\AForge.Video.dll
+C:\dev\dotnet-dev\DotNetDemos\Runner\bin\Debug\AForge.xml
+C:\dev\dotnet-dev\DotNetDemos\Runner\bin\Debug\AForge.Video.xml
+C:\dev\dotnet-dev\DotNetDemos\Runner\bin\Debug\AForge.Video.DirectShow.xml

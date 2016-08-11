@@ -1,0 +1,8 @@
+C:\dev\dotnet-dev\DotNetDemos\MultipartHttpRequestHandler\bin\Debug\MultipartHttpRequestHandler.exe.config
+C:\dev\dotnet-dev\DotNetDemos\MultipartHttpRequestHandler\bin\Debug\MultipartHttpRequestHandler.exe
+C:\dev\dotnet-dev\DotNetDemos\MultipartHttpRequestHandler\bin\Debug\MultipartHttpRequestHandler.pdb
+C:\dev\dotnet-dev\DotNetDemos\MultipartHttpRequestHandler\bin\Debug\System.Net.Http.Formatting.dll
+C:\dev\dotnet-dev\DotNetDemos\MultipartHttpRequestHandler\bin\Debug\System.Net.Http.Formatting.xml
+C:\dev\dotnet-dev\DotNetDemos\MultipartHttpRequestHandler\obj\Debug\MultipartHttpRequestHandler.csprojResolveAssemblyReference.cache
+C:\dev\dotnet-dev\DotNetDemos\MultipartHttpRequestHandler\obj\Debug\MultipartHttpRequestHandler.exe
+C:\dev\dotnet-dev\DotNetDemos\MultipartHttpRequestHandler\obj\Debug\MultipartHttpRequestHandler.pdb

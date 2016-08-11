@@ -1,0 +1,6 @@
+C:\dev\dotnet-dev\DotNetDemos\FrameworkDemo\bin\Debug\FrameworkDemo.exe.config
+C:\dev\dotnet-dev\DotNetDemos\FrameworkDemo\bin\Debug\FrameworkDemo.exe
+C:\dev\dotnet-dev\DotNetDemos\FrameworkDemo\bin\Debug\FrameworkDemo.pdb
+C:\dev\dotnet-dev\DotNetDemos\FrameworkDemo\obj\Debug\FrameworkDemo.csprojResolveAssemblyReference.cache
+C:\dev\dotnet-dev\DotNetDemos\FrameworkDemo\obj\Debug\FrameworkDemo.exe
+C:\dev\dotnet-dev\DotNetDemos\FrameworkDemo\obj\Debug\FrameworkDemo.pdb

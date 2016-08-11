@@ -1,0 +1,6 @@
+C:\dev\dotnet-dev\DotNetDemos\CrashDump\bin\Debug\CrashDump.exe.config
+C:\dev\dotnet-dev\DotNetDemos\CrashDump\bin\Debug\CrashDump.exe
+C:\dev\dotnet-dev\DotNetDemos\CrashDump\bin\Debug\CrashDump.pdb
+C:\dev\dotnet-dev\DotNetDemos\CrashDump\obj\Debug\CrashDump.csprojResolveAssemblyReference.cache
+C:\dev\dotnet-dev\DotNetDemos\CrashDump\obj\Debug\CrashDump.exe
+C:\dev\dotnet-dev\DotNetDemos\CrashDump\obj\Debug\CrashDump.pdb

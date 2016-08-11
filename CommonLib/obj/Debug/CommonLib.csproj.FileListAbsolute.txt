@@ -1,0 +1,5 @@
+C:\dev\dotnet-dev\DotNetDemos\CommonLib\bin\Debug\CommonLib.dll
+C:\dev\dotnet-dev\DotNetDemos\CommonLib\bin\Debug\CommonLib.pdb
+C:\dev\dotnet-dev\DotNetDemos\CommonLib\obj\Debug\CommonLib.dll
+C:\dev\dotnet-dev\DotNetDemos\CommonLib\obj\Debug\CommonLib.pdb
+C:\dev\dotnet-dev\DotNetDemos\CommonLib\obj\Debug\CommonLib.csprojResolveAssemblyReference.cache

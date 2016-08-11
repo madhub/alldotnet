@@ -1,0 +1,8 @@
+C:\dev\dotnet-dev\DotNetDemos\DumpThreadStacks\bin\Debug\DumpThreadStacks.exe.config
+C:\dev\dotnet-dev\DotNetDemos\DumpThreadStacks\bin\Debug\DumpThreadStacks.exe
+C:\dev\dotnet-dev\DotNetDemos\DumpThreadStacks\bin\Debug\DumpThreadStacks.pdb
+C:\dev\dotnet-dev\DotNetDemos\DumpThreadStacks\bin\Debug\Microsoft.Diagnostics.Runtime.dll
+C:\dev\dotnet-dev\DotNetDemos\DumpThreadStacks\bin\Debug\Microsoft.Diagnostics.Runtime.xml
+C:\dev\dotnet-dev\DotNetDemos\DumpThreadStacks\obj\Debug\DumpThreadStacks.exe
+C:\dev\dotnet-dev\DotNetDemos\DumpThreadStacks\obj\Debug\DumpThreadStacks.pdb
+C:\dev\dotnet-dev\DotNetDemos\DumpThreadStacks\obj\Debug\DumpThreadStacks.csprojResolveAssemblyReference.cache
