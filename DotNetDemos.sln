@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DumpThreadStacks", "DumpThreadStacks\DumpThreadStacks.csproj", "{4BCD9EBC-4A6E-4E7B-BC1C-F2D90B906164}"
 EndProject
@@ -18,6 +18,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AforgeDemo", "AforgeDemo\AforgeDemo.csproj", "{4B12A80A-8CBC-4AF4-B7D4-A823ECDA9FED}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrashDump", "CrashDump\CrashDump.csproj", "{86E13FAD-61AB-4C8F-9841-9FEBED96F39A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PipeAndFilterDemo", "PipeAndFilterDemo\PipeAndFilterDemo.csproj", "{DB89238B-2BED-4EBF-913B-43DF3DBEC659}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,8 +59,15 @@ Global
 		{86E13FAD-61AB-4C8F-9841-9FEBED96F39A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86E13FAD-61AB-4C8F-9841-9FEBED96F39A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86E13FAD-61AB-4C8F-9841-9FEBED96F39A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB89238B-2BED-4EBF-913B-43DF3DBEC659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB89238B-2BED-4EBF-913B-43DF3DBEC659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB89238B-2BED-4EBF-913B-43DF3DBEC659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB89238B-2BED-4EBF-913B-43DF3DBEC659}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBCC9ECF-D48D-49E3-A161-4280A68F87C7}
 	EndGlobalSection
 EndGlobal
