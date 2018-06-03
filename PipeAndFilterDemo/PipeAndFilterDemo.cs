@@ -5,6 +5,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/// <summary>
+/// http://www.enterpriseintegrationpatterns.com/patterns/messaging/PipesAndFilters.html 
+/// https://github.com/mikevalenty/tamarack/blob/master/Src/Pipeline/Pipeline.cs
+/// </summary>
 namespace PipeAndFilterDemo
 {
     /// <summary>

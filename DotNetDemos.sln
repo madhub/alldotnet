@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrashDump", "CrashDump\Cras
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PipeAndFilterDemo", "PipeAndFilterDemo\PipeAndFilterDemo.csproj", "{DB89238B-2BED-4EBF-913B-43DF3DBEC659}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspnetRequestPipeLineDemo", "AspnetRequestPipeLineDemo\AspnetRequestPipeLineDemo.csproj", "{0A38F975-1605-4CD8-85E5-30333C3EBEAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{DB89238B-2BED-4EBF-913B-43DF3DBEC659}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB89238B-2BED-4EBF-913B-43DF3DBEC659}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB89238B-2BED-4EBF-913B-43DF3DBEC659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A38F975-1605-4CD8-85E5-30333C3EBEAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A38F975-1605-4CD8-85E5-30333C3EBEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A38F975-1605-4CD8-85E5-30333C3EBEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A38F975-1605-4CD8-85E5-30333C3EBEAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
