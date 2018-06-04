@@ -8,6 +8,7 @@ namespace AspnetRequestPipeLineDemo
 {
     public class Context
     {
+        public Dictionary<string, object> Properties { get; set; }
     }
 
     public delegate Task RequestDelegate(Context context);
